@@ -1,0 +1,3 @@
+# tipo;login;nome;email;senha;roles
+CLIENTE;maria;Maria Silva;maria@escola.com;senha123;ROLE_USER
+ADMIN;joao;Joao Souza;joao@escola.com;senha123;ROLE_ADMIN,ROLE_USER
